@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sdaacademy.testingFundamentals.CNPetectionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-01-23T12:25:23" hostname="DESKTOP-82CRT33" time="0.293">
+  <properties/>
+  <testcase name="detectGender" classname="com.sdaacademy.testingFundamentals.CNPetectionTest" time="0.014"/>
+  <testcase name="invalidFirstCharTest" classname="com.sdaacademy.testingFundamentals.CNPetectionTest" time="0.001"/>
+  <testcase name="ageTest" classname="com.sdaacademy.testingFundamentals.CNPetectionTest" time="0.105"/>
+  <testcase name="invalidCNPTest" classname="com.sdaacademy.testingFundamentals.CNPetectionTest" time="0.001"/>
+  <testcase name="dateTest" classname="com.sdaacademy.testingFundamentals.CNPetectionTest" time="0.154"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
